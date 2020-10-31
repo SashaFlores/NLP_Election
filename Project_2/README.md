@@ -38,6 +38,9 @@ Liabraries Used in this project:
 
 
 ![](Images/t_bar.JPG)
+![](Images/tcloud.jpg)
+
+
 
 ## Joe Biden findings out of 200 tweets:
 - Positive tweets count & ratio: 100 tweets = 50 %
@@ -45,15 +48,23 @@ Liabraries Used in this project:
 - Neutral tweets count & ratio: 64 tweets = 32 %
 - Exclamation Mark was used 4 times only.
   ![](Images/jbar.jpg)
+![](Images/bcloud.jpg)
+
+
+
+
+  
+  ![](Images/bse.jpg) ![](Images/bse.jpg)
+
 
 ## Part 2- Fetched 5000 replies to each candidate using tweet.Cursor to overcome limitation imposed on user timeline
 
 ## Measure rational & emotional replies to each candidate to gauge people preferences
 
 ## Out of 5000 replies, Donald Trump got:
-- Voters who respond positively: 1061
+- Voters who respond positively: 1063
 - Voters who respond negatively: 1199
-- Voters who respond neutral: 2740
+- Voters who respond neutral: 2738
  
   ![](Images/dReview.jpg)
 
@@ -74,9 +85,10 @@ Liabraries Used in this project:
 
 ![](Images/compare.jpg)
 
+![](Images/23.jpg)
 
-
-
+![](Images/last.jpg)
+![](Images/last2.JPG)
 
 ## References
 https://stackoverflow.com/questions/46734636/tweepy-api-user-timeline-count-limited-to-200
